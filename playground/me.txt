@@ -1,0 +1,5 @@
+{{#user}}
+Name: Aswin Raj B.V
+Skills: Python ( Tensorflow, pandas, numpy, keras, pandas profiling, streamlit, prophet), R, C++, java, Machine Learning, Deep Learning, Tableau, Power BI, Sqlite, Pyspark, HTML, CSS, Selenium
+Email: aswinraj.ar23@gmail.com
+{{/user}}
